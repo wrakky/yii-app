@@ -31,7 +31,7 @@
         "crisu83/yii-multilingual": "dev-master",
         "crisu83/yii-seo": "dev-master",
         "crisu83/yii-workflow": "dev-master",
-        "crisu83/yiistrap": "dev-master",
+        "wrakky/yiistrap": "dev-bs3",
         "malyshev/yii-debug-toolbar": "dev-master",
         "nordsoftware/yii-audit": "dev-master",
         "nordsoftware/yii-emailer": "dev-master",
